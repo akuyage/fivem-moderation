@@ -29,7 +29,7 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 - `/ekip-olustur`, `/ekip-sil`, `/ekip-bilgi`, `/ekip-davet`, `/ekip-puan`
 - Ekip lideri (Boss) ve OG yönetimi, ekip içi roller ve özel ses kanalı entegrasyonu
 
-### 📊 İstatistik & Bilgi Panelleri
+###  İstatistik & Bilgi Panelleri
 - **Kullanıcı Bilgi:** `/kullanici-bilgi` — `@napi-rs/canvas` ile oluşturulan modern monochrome (siyah-beyaz) istatistik kartı
 - **Davet Takibi:** `/davetler` (Kullanıcının davet sayıları), `/daily-invite-log` (Günlük davet log kanalı ayarlama)
 - **Konum / Nerede:** `/nerede` (Kullanıcının hangi ses kanalında olduğunu bulur)
@@ -52,7 +52,7 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 
 ---
 
-## 🛠️ Kurulum & Çalıştırma
+##  Kurulum & Çalıştırma
 
 > [!IMPORTANT]
 > **Önemli Not:** Botu kullanmaya başlamadan önce `config.json` dosyasından sunucunuzun **rollerini (`roles`)** ayarlayınız. Ayrıca geliştirici komutlarını (`/db-sil`, `/otoceza` vb.) sorunsuz kullanabilmek için `config.json` içindeki **`developers`** listesine kendi Discord kullanıcı ID'nizi eklemeyi unutmayın!
@@ -90,7 +90,7 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 
 ---
 
-## 👨‍💻 Yapımcı & Telif
+##  Yapımcı & Telif
 
-Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.  
+Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.
 *Powered by akuyage*
