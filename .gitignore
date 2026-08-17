@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Local configuration / secrets
+.env
+
+# SQLite Databases & logs
+database.sqlite
+database.sqlite-shm
+database.sqlite-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Temporary / Command logs
+commands.txt
+logs/
+*.log
+
+# OS Metadata
+.DS_Store
+Thumbs.db
