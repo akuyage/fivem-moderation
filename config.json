@@ -1,0 +1,61 @@
+{
+  "developers": [
+    "186407753818963969"
+  ],
+  "prefix": "!",
+  "embed": {
+    "color": "#2f3136",
+    "successColor": "#43b581",
+    "errorColor": "#f04747",
+    "warningColor": "#faa61a"
+  },
+  "roles": {
+    "staff": "",
+    "mute": "",
+    "characterApproved": "",
+    "whitelist": "",
+    "unregistered": ""
+  },
+  "channels": {
+    "ticketCategory": "",
+    "teamCategory": "",
+    "messageLogChannel": "",
+    "voiceLogChannel": "",
+    "roleLogChannel": "",
+    "channelLogChannel": "",
+    "nameLogChannel": "",
+    "securityLogChannel": "",
+    "joinedLogChannel": "",
+    "leavedLogChannel": "",
+    "commandLogChannel": "",
+    "warningLogChannel": "",
+    "punishLogChannel": "",
+    "kickLogChannel": "",
+    "banLogChannel": "",
+    "whitelistPunishLog": "",
+    "wlAnnounceChannel": "",
+    "inviteReportLog": "",
+    "ticketLogChannel": "",
+    "yetkiliBasvuruLogChannel": "",
+    "inviteLogChannel": "",
+    "interviewLog": "",
+    "interviewWaiting": "",
+    "interviewCategory": "",
+    "icName": "",
+    "teamInviteChannel": "",
+    "interviewSystem": "",
+    "botVoiceChannel": "",
+    "systemLogCategory": "",
+    "memberLogCategory": "",
+    "moderationLogCategory": "",
+    "ekipDavetLogChannel": ""
+  },
+  "guildId": "",
+  "autoPunish": {
+    "type": "temp_ban",
+    "duration": 259200000
+  },
+  "serverIp": "",
+  "serverTs": "",
+  "botStatus": "made by akuyage"
+}
