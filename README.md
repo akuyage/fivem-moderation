@@ -2,10 +2,6 @@
 
 FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQLite tabanlı, modern Discord moderasyon, ticket, mülakat, ekip, istatistik ve çekiliş botu.
 
-> **Geliştirici & Yapımcı:** **akuyage**  
-> **Bot Durumu (Status):** `akuyage <3`  
-> **Powered by:** `akuyage`
-
 ---
 
 ## 🚀 Özellikler & Sistemler
