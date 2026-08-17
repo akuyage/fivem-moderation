@@ -1,0 +1,27 @@
+{
+  "name": "fivem-moderation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --watch src --watch config.json --watch index.js --ignore \"src/database/*.sqlite*\" index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.2",
+    "@napi-rs/canvas": "^0.1.100",
+    "better-sqlite3": "^12.9.0",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "libsodium-wrappers": "^0.8.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
