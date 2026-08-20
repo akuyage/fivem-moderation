@@ -93,6 +93,7 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 ##  Yapımcı & Telif
 
 Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.
+
 *Powered by akuyage*
 
 https://discord.gg/kK8Gdqk88a
