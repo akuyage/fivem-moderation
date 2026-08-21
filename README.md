@@ -2,15 +2,11 @@
 
 FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQLite tabanlı, modern Discord moderasyon, ticket, mülakat, ekip, istatistik ve çekiliş botu.
 
-> **Geliştirici & Yapımcı:** **akuyage**  
-> **Bot Durumu (Status):** `akuyage <3`  
-> **Powered by:** `akuyage`
-
 ---
 
-## 🚀 Özellikler & Sistemler
+##  Özellikler & Sistemler
 
-### 🛡️ Moderasyon Sistemleri
+###  Moderasyon Sistemleri
 - **Whitelist Yönetimi:** `/wl-ver` (HEX ID veya Steam profil linki ile Whitelist verme), `/wl-al` (Whitelist alma)
 - **Whitelist Uyarı & Ceza:** `/wl-uyari` (I, II, III Puan), `/wl-uyari-kaldir`, `/wl-ceza` (Süreli / Kalıcı), `/wl-ceza-kaldir`, `/otoceza` (3. Uyarıdan sonra ne yapılsın?)
 - **Case ID Takibi:** Tüm cezalar ve uyarılar için `AKY-XXXXX` formatında benzersiz vaka takip numarası
@@ -20,31 +16,31 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 - **Rol Yönetimi:** `/rol-ver`, `/rol-al`
 - **Sicil Sorgulama:** `/sicil` — Kullanıcının tüm uyarı, ceza, ban, mute ve mülakat geçmişini detaylı listeler
 
-### 🎫 Destek & Ticket Sistemi
+###  Destek & Ticket Sistemi
 - **Ticket Paneli:** `/ticketkurulum` ile butonlu modern ticket açma paneli
 - **Ticket Yönetimi:** Üstlen (`ticketClaim`), Bırak (`ticketUnclaim`), Kullanıcı Ekle/Çıkar, Ping ve Kapatma butonları
 - **HTML Transkript Arşivi:** Ticket kapandığında mesajları, ekleri ve detayları kaydeden HTML transkript üreticisi (`transcriptGenerator`)
 
-### 👥 Mülakat & IC İsim Onay Sistemi
+###  Mülakat & IC İsim Onay Sistemi
 - **Sesli Mülakat:** Mülakat bekleme odasındaki kullanıcıyı otomatik odaya çekme, ilgilenme ve sonuçlandırma
 - **IC Karakter İsmi:** Butonlu onay/red paneli ile isim değişiklik taleplerini yönetme (`/basvurumesaj`)
 
-### 🏆 Ekip (Team) Sistemi
+###  Ekip (Team) Sistemi
 - `/ekip-olustur`, `/ekip-sil`, `/ekip-bilgi`, `/ekip-davet`, `/ekip-puan`
 - Ekip lideri (Boss) ve OG yönetimi, ekip içi roller ve özel ses kanalı entegrasyonu
 
-### 📊 İstatistik & Bilgi Panelleri
+###  İstatistik & Bilgi Panelleri
 - **Kullanıcı Bilgi:** `/kullanici-bilgi` — `@napi-rs/canvas` ile oluşturulan modern monochrome (siyah-beyaz) istatistik kartı
 - **Davet Takibi:** `/davetler` (Kullanıcının davet sayıları), `/daily-invite-log` (Günlük davet log kanalı ayarlama)
 - **Konum / Nerede:** `/nerede` (Kullanıcının hangi ses kanalında olduğunu bulur)
 - **Yetkili İstatistikleri:** `/yetkili-stat` (Detaylı ses, ticket, mülakat, ceza ve puan analizi), `/yetkili-top` (Yetkili puan sıralaması)
 - **Yetkili Ses Kontrol:** `/yetkilises` — Seste olan ve olmayan yetkilileri listeleyip tek tuşla sese çağırma paneli
 
-### 🎉 Çekiliş (Giveaway) Sistemi
+###  Çekiliş (Giveaway) Sistemi
 - `/cekilis-baslat`, `/cekilis-bitir`, `/cekilis-reroll`
 - Arka planda çalışan zamanlayıcı (`giveawayManager`), butonla katılım ve kazananlara otomatik DM bildirimi
 
-### ⚙️ Sunucu & Sistem Yönetimi
+###  Sunucu & Sistem Yönetimi
 - **`/kur`:** Tüm log kategorilerini ve kanallarını otomatik oluşturur, izinleri ayarlar ve `config.json`'a işler
 - **`/kaldir`:** Botun oluşturduğu tüm kanal/kategorileri sunucudan temizler
 - **`/db-sil`:** Veritabanındaki tabloları sıfırlar (Sadece yetkili geliştiriciler)
@@ -56,7 +52,7 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 
 ---
 
-## 🛠️ Kurulum & Çalıştırma
+##  Kurulum & Çalıştırma
 
 > [!IMPORTANT]
 > **Önemli Not:** Botu kullanmaya başlamadan önce `config.json` dosyasından sunucunuzun **rollerini (`roles`)** ayarlayınız. Ayrıca geliştirici komutlarını (`/db-sil`, `/otoceza` vb.) sorunsuz kullanabilmek için `config.json` içindeki **`developers`** listesine kendi Discord kullanıcı ID'nizi eklemeyi unutmayın!
@@ -94,7 +90,10 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 
 ---
 
-## 👨‍💻 Yapımcı & Telif
+##  Yapımcı & Telif
 
-Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.  
+Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.
+
 *Powered by akuyage*
+
+https://discord.gg/kK8Gdqk88a
