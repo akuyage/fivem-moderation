@@ -91,8 +91,8 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 ---
 
 ## 📄 Lisans
-[](https://github.com/akuyage/gelismis-ticket#-lisans)
-Bu proje [Akuyage License](https://github.com/akuyage/gelismis-ticket/blob/main/LICENSE) ile lisanslanmıştır.
+[](https://github.com/akuyage/fivem-moderation#-lisans)
+Bu proje [Akuyage License](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) ile lisanslanmıştır.
 
 Botu kullandığınızda botun Discord profil durumunda, botun kullanıldığı proje adıyla birlikte aşağıdaki formatta geliştirici atfı bulunmalıdır:
 
@@ -102,7 +102,7 @@ Botu kullandığınızda botun Discord profil durumunda, botun kullanıldığı 
 
 `Ticket - akuyage`
 
-Bu atıf, bot aktif olarak kullanıldığı sürece görünür ve okunabilir olmalıdır. Ayrıntılı şartlar için [LICENSE](https://github.com/akuyage/gelismis-ticket/blob/main/LICENSE) dosyasına bakın.
+Bu atıf, bot aktif olarak kullanıldığı sürece görünür ve okunabilir olmalıdır. Ayrıntılı şartlar için [LICENSE](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) dosyasına bakın.
 
 [https://discord.gg/kK8Gdqk88a](https://discord.gg/kK8Gdqk88a)
 
