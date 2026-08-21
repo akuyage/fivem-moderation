@@ -91,18 +91,20 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 ---
 
 ## 📄 Lisans
-[](https://github.com/akuyage/fivem-moderation#-lisans)
-Bu proje [Akuyage License](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) ile lisanslanmıştır.
 
-Botu kullandığınızda botun Discord profil durumunda, botun kullanıldığı proje adıyla birlikte aşağıdaki formatta geliştirici atfı bulunmalıdır:
+Bu proje, koşullu izinler sunan **Akuyage License (Source-Available)** ile
+lisanslanmıştır. Bu lisans OSI onaylı bir açık kaynak lisansı değildir; yazılımı
+kullanırken, değiştirirken, dağıtırken veya barındırırken [LICENSE](LICENSE)
+dosyasındaki atıf şartlarına uyulmalıdır.
+
+Botun Discord profil durumunda aşağıdaki format kullanılmalıdır:
 
 `<Proje Adı> - akuyage`
 
-Örnek:
+Bu proje **Originally created by akuyage**.
 
-`Ticket - akuyage`
-
-Bu atıf, bot aktif olarak kullanıldığı sürece görünür ve okunabilir olmalıdır. Ayrıntılı şartlar için [LICENSE](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) dosyasına bakın.
+Atıf, yazılım veya türevi aktif olarak kullanıldığı, dağıtıldığı ya da
+yayınlandığı sürece görünür ve okunabilir kalmalıdır.
 
 [https://discord.gg/kK8Gdqk88a](https://discord.gg/kK8Gdqk88a)
 
