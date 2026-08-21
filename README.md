@@ -97,3 +97,21 @@ Bu bot **akuyage** tarafından FiveM toplulukları için geliştirilmiştir.
 *Powered by akuyage*
 
 https://discord.gg/kK8Gdqk88a
+
+## 📄 Lisans
+[](https://github.com/akuyage/gelismis-ticket#-lisans)
+Bu proje [Akuyage License](https://github.com/akuyage/gelismis-ticket/blob/main/LICENSE) ile lisanslanmıştır.
+
+Botu kullandığınızda botun Discord profil durumunda, botun kullanıldığı proje adıyla birlikte aşağıdaki formatta geliştirici atfı bulunmalıdır:
+
+`<Proje Adı> - akuyage`
+
+Örnek:
+
+`Ticket - akuyage`
+
+Bu atıf, bot aktif olarak kullanıldığı sürece görünür ve okunabilir olmalıdır. Ayrıntılı şartlar için [LICENSE](https://github.com/akuyage/gelismis-ticket/blob/main/LICENSE) dosyasına bakın.
+
+[https://discord.gg/kK8Gdqk88a](https://discord.gg/kK8Gdqk88a)
+
+*Powered by akuyage*
