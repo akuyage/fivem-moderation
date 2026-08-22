@@ -1,93 +1,21 @@
-Akuyage License (Source-Available)
+MIT License
 
 Copyright (c) 2026 akuyage
 
-This project is source-available: the source code is public and free
-to use, modify, and self-host under the conditions below. This is NOT
-an OSI-approved open-source license — permissions are conditional on
-the attribution requirements in this document.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-──────────────────────────────
-Permissions
-──────────────────────────────
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You are permitted to use, modify, run, host, and redistribute this
-software (including modified versions), for personal or commercial
-purposes, free of charge, under the conditions below.
-
-This includes running the software as a paid service, offering it as
-part of a commercial product, or charging others for hosting,
-support, or customization — as long as the attribution requirements
-below are met in full.
-
-No royalties, fees, revenue share, or payment of any kind is owed to
-akuyage for any use of this software, commercial or otherwise. The
-only obligation under this license is attribution, as defined below.
-
-──────────────────────────────
-Mandatory Attribution
-──────────────────────────────
-
-Every use, deployment, fork, or public instance of this software (or
-any modified version of it) must clearly and visibly credit the
-original author, akuyage, in ALL of the following places where
-applicable:
-
-1. Discord bot profile status (if the software is a Discord bot):
-	"<Project Name> - akuyage"
-	Example: "Ticket - akuyage"
-
-2. Source code repository: the "akuyage" name must be retained as
-	original author in the README, package.json ("author" field), or
-	equivalent metadata file.
-
-3. Any public-facing documentation, website, support server, or
-	listing for the project must visibly state:
-	"Originally created by akuyage"
-	(linking to the original repository where possible).
-
-This attribution must remain visible and readable for as long as the
-software, or any derivative of it, is actively used, deployed, or
-distributed — whether or not the code has been modified.
-
-The "akuyage" attribution may not be removed, hidden, obscured, or
-replaced with another developer's name in any of the locations above.
-
-──────────────────────────────
-Redistribution
-──────────────────────────────
-
-When redistributing this project or any modified version of it, this
-license file and all akuyage attribution (as defined above) must be
-retained in full.
-
-──────────────────────────────
-License Violation
-──────────────────────────────
-
-If any condition of this license is violated, all permissions granted
-to the violating party to use, modify, deploy, or redistribute the
-software shall immediately and automatically terminate.
-
-After a violation, continued use of the software, distribution of
-modified versions, or redistribution of the software is not permitted
-under this license.
-
-The right to use the software may only be restored if the violation is
-corrected and explicit written permission is granted again by the
-developer (akuyage).
-
-──────────────────────────────
-Disclaimer
-──────────────────────────────
-
-This software is provided "as is", without any warranty of any kind,
-express or implied. The developer shall not be held responsible for
-any damages arising from the use of this software.
-
-──────────────────────────────
-
-Use it for free. Modify it. Share it.
-But keep "akuyage" credited everywhere this software appears.
-
-© 2026 akuyage
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

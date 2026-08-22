@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "akuyage",
-  "license": "Akuyage License (Source-Available)",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "@discordjs/voice": "^0.19.2",

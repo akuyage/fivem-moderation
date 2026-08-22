@@ -90,19 +90,15 @@ FiveM sunucuları için özel olarak geliştirilmiş, yüksek performanslı, SQL
 
 ---
 
-## 📄 Lisans
+## :page_facing_up: Lisans
 
-Bu proje [Akuyage License (Source-Available)](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) ile lisanslanmıştır.
+Bu proje MIT Lisansı ile lisanslanmıştır.
 
-Bu lisans altında yazılımı kişisel veya ticari amaçlarla ücretsiz olarak kullanabilir, değiştirebilir, barındırabilir ve dağıtabilirsiniz. Ancak yazılımın kullanımı, paylaşımı veya türetilmesi durumunda aşağıdaki zorunlu atıf (attribution) şartlarına eksiksiz uyulması gerekmektedir:
+Yazılımı kişisel veya ticari amaçlarla ücretsiz olarak kullanabilir, değiştirebilir, dağıtabilir ve özel yazılımlarda kullanabilirsiniz. Tek şart, telif hakkı bildiriminin ve MIT lisans metninin yazılımın tüm kopyalarına veya önemli bölümlerine dahil edilmesidir.
 
-- **Discord Bot Profil Durumu:** `<Proje Adı> - akuyage` (Örn: `Ticket - akuyage`)
-- **Kaynak Kod Reposu:** `README`, `package.json` (`"author"` alanı) veya eşdeğer metadata dosyalarında orijinal yazar olarak `akuyage` adı korunmalıdır.
-- **Kamuya Açık Alanlar:** Dokümantasyon, web sitesi, destek sunucusu veya proje listelemelerinde görünür şekilde "Originally created by akuyage" (mümkünse orijinal depoya bağlantı verilerek) belirtilmelidir.
+Ayrıntılı lisans şartları ve koşulları için [LICENSE](LICENSE) dosyasına bakınız.
 
-Ayrıntılı lisans şartları ve koşulları için [LICENSE](https://github.com/akuyage/fivem-moderation/blob/main/LICENSE) dosyasına bakınız.
-
-- **Orijinal Depo:** [https://github.com/akuyage/gelismis-ticket](https://github.com/akuyage/gelismis-ticket)
+- **Orijinal Depo:** [https://github.com/akuyage/fivem-moderation](https://github.com/akuyage/fivem-moderation)
 - **Destek Sunucusu:** [https://discord.gg/kK8Gdqk88a](https://discord.gg/kK8Gdqk88a)
 
 *Powered by [akuyage](https://github.com/akuyage/fivem-moderation)*
